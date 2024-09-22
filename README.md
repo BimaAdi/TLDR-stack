@@ -13,6 +13,11 @@ Tailwind Lucia Drizzle Remix (TLDR)
 1. install depedency `pnpm install`
 1. run server in development mode `pnpm run dev`
 
+## Lint and formater
+- to run lint `pnpm run lint`
+- to run code formater `pnpm run format`
+- to run both lint and code formater `pnpm run check`
+
 ## Deployment
 1. build project `pnpm run build`
 1. run server `pnpm run start`
